@@ -1,0 +1,11 @@
+<resources>
+<string name="app_name">Lemonade</string>
+<string name="lemon_tree_content_description">Gambar pohon lemon</string>
+<string name="lemon_content_description">Gambar lemon</string>
+<string name="lemonade_content_description">Gambar lemonade</string>
+<string name="empty_glass_content_description">Gambar gelas kosong</string>
+<string name="tap_lemon_tree">Tap pohon lemon untuk memilih lemon</string>
+<string name="tap_lemon">Tap lemon untuk memerasnya</string>
+<string name="tap_lemonade">Tap lemonade untuk meminumnya</string>
+<string name="tap_glass">Tap gelas untuk memulai lagi</string>
+</resources>
